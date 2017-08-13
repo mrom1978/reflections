@@ -21,3 +21,4 @@ lines added from beginning of branching out are added when merged and lines remo
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+whem there is no conflict betweem branches automatically merges and when conflict allows user to decide how to keep in merge
