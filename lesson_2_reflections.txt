@@ -16,8 +16,8 @@ when keeping master version intact and making changes to a different version
 How do the diagrams help you visualize the branch structure?
 the different path taken by each branch and its development
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+lines added from beginning of branching out are added when merged and lines removed are removed when merged. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
