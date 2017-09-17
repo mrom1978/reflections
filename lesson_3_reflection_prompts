@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 When work requires individual input in group work that later needs to be updated globally in locally. 
+
+Why might you want to always pull changes manually rather than having Git automatically stay up to date with your remote repository?
+GitHub can be public repository where many individuals work on a group project so manually pull change the commit that needs to be shared with other members of the group. 
